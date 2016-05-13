@@ -1,4 +1,4 @@
 RadFTCLib
 =========
 
-Radiation-Fault Tolerant Cells Library
+Radiation-Fault Tolerant Standard-Cells Library
